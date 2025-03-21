@@ -1,0 +1,76 @@
+ 
+Task  Amount of Work  Productivity  Rate  
+Project Plan      
+Write Plan  56 pages  5 page s/Hour  
+Review Plan      
+Preparation for review    4 pages/Hour  
+Review Meeting   8 pages/Hour  
+Rework  39 defects  5 defects/Hour  
+   
+Risk Mitigation and Contingency Plan      
+Write Plan  78 pages  5 page s/Hour  
+Review Plan      
+Preparation for review    5 pages/Hour  
+Review Meeting   10 pages/Hour  
+Rework  19 defects  5 defects/Hour  
+   
+Requirement      
+Write requirements  176 Req 4 Req/Hour  
+Write Use Case Model  62 Use Cases  5 use case/ 2 Hour s 
+Review Requirements / Use Case Model      
+Preparation for review    18 Req/Hour  
+  4 Use Cases/Hour  
+Review Meeting    23 Req/Hour  
+  5 Use Cases/Hour  
+Rework  127 defects  8 defects/Hour  
+   
+Analysis      
+Write Analysis Document  72 pages  5 pages/Hour  
+Review Analysis Document      
+Preparation for Analysis Document    4 pages/Hour  
+Review Meeting    7 pages/Hour  
+Rework  92 defects  5 defects/Hour  
+   
+Design       
+Write DD  78 pages  4 pages/Hour  
+Review DD      
+Preparation for DD    5 pages/Hour  
+Review Meeting    9 pages/Hour  
+Rework  175 defects  4 defect s/Hour  
+Write Data Model (DM)  31 pages  1 page/ 3 Hour s 
+Review DM      
+Preparation for DM    5 pages/Hour  
+Review Meeting    4 pages/Hour  
+Rework  79 defects  7 defects/Hour  
+   
+Coding and unit test      
+Write Code  3758  SLOC  5 SLOC/Hour  
+Unit Testing     
+Prepare/Execute Test Cases  194 test cases  8 Test Case s/Day 
+Fix Found Defects  184 Defects  7 Defect s/Day 
+Test  Fixed Defects  184 Defects  6 Defects/Day  
+Code Inspection      
+Preparation for Code Inspection    124 SLOC/Hour  
+Code Inspection Meeting    210 SLOC/Hour  
+Rework  174 defects  4 defects/Hour  
+   
+Testing      
+Write test plan (TP)  210 pages  6 page s/Day 
+Review TP      
+Preparation for TP    5 pages/Hour  
+Review TP Meeting    8 pages/Hour  
+Rework  287 defects  6 defects/Hour  
+Execute TP (test cases)  259 test cases  8 test cases/day  
+Fix Found Defects  188 defects  9 defects/day  
+Test Fixed Defects  188 defects  13 defects/day  
+   
+Documentation      
+User Documentation  147 pages  4 page s/Hour  
+Review UD      
+Preparation for UD  Review    4 pages/Hour  
+Review UD Meeting    6 pages/Hour  
+Rework  163 defects  8 defects/Hour  
+      
+ 
+ 
+ 

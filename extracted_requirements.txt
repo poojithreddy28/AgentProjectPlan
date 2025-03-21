@@ -1,0 +1,153 @@
+ 
+Chicago WideCast  
+Smart -Home Services  
+ 
+ 
+ 
+ 
+ 
+Author: Atef Bader, PhD  
+Last Edit: 7/5/2024  
+Image/Model: dall-e-3 
+ 
+ 
+Project Overview Statement:  
+ 
+Chicago WideCast Smart -Home Services  is a startup company that is 
+interested in automating all of its business process workflows utilizing 
+generative AI technologies to create conversational AI assistant to serve 
+its customers and employees online.  
+ 
+Assume a s a result of a number of interviews, questionnaires, document 
+reviews, and meetings with customers/users, engineers, senior 
+management, product management members, you have managed to 
+gather and document the following high -level description and 
+requirements for the intended Conversational AI Assistant  application.  
+  
+
+High -Level Description:  
+ 
+ The following is a high -level description for the different  products, services 
+and  business process workflows : 
+• The f ollowing is the list of services , and products  the company 
+offers  to its customers : 
+ 
+1. Online TV plan  
+1. Basic - 50 channels  
+2. BasicPlus – 100 channels  
+3. Ultimate - 200 channels  
+ 
+2. Data Plan  
+1. WiFi SpeedLane – 100/5 Mbps speed  
+2. WiFi LightLane – 250/30 MBPS speed  
+ 
+3. On Demand Movie Streaming  
+1. Premium – 100 movies a month  
+2. Ultimate – 500 movies a month  
+ 
+4. PPV  
+1. Live Sports Events (fixed date/time)  
+2. PPV Movies (Any date/time)  
+ 
+5. Online Video Gam es  
+1. Premium  – 100 games  a month  
+2. Ultimate – 200 games  a month  
+ 
+6. Home Security  
+1. Security Cameras and Alarms  
+2. Remotely Unlock/Lock main entrance of the house 
+for delivery service s personnel of goods and 
+packages  
+ 
+7. Utilities  
+1. Lighting: Remotely control house lights  
+2. Thermostat: Remotely control the house thermostat  
+ 
+ 
+• WideCast has four different roles/ personas : 
+1. Managers  
+2. Account Specialists (Customer Support)  
+3. Technical Support Specialists (Technician)  
+4. Customers  
+ 
+• A manager can  execute any of the following business process 
+workflows:  
+1. Add  any products/services offered  
+2. Update  any products/services offered  
+3. Delete any products/services offered  
+4. Cancel  any type of order  
+5. Update any type of order  
+6. Delete any type of order  
+ 
+ 
+• Account Specialist (Customer Support ) can execute any of the 
+following business process workflows:  
+1. Create an account for a new customer  
+2. Update customer account  
+3. Create an incident ticket and assign it to a technician  
+4. Place an order of a PPV  event  
+ 
+• Technical Support Specialist can  
+1. Schedule incident ticket  
+2. Close incident ticket  
+3. Cancel incident ticket  
+ 
+• Customer that has an existing account can execute any of the 
+following business process workflows : 
+1. Update Personal Account Information (credit card, 
+personal info, etc.)  
+2. Pay Monthly Bill  
+3. Create  an order for any of the products/services offered 
+by WideCast  
+4. Change  an order for any of the products/services offered 
+by WideCast  
+5. Cancel an order for any of the products/services offered 
+by WideCast  
+ 
+ 
+• The f ollowing is the list of business rules, and constraints:  
+1. New customers must rent the WideCast Smarthub 
+Box and the needed devices for the different 
+services purchased . 
+2. The customer must have either Data plan, Online TV 
+plan, or both  
+3. The customer can choose monthly plan , 1 year 
+contract, or 2 years contract  
+4. An Online TV plan is required to provide PPV services  
+5. A Data plan is required to provide any of the 
+following  services : On Demand Movie Streaming , 
+Online Video Gam es, Home Security, and Utilitie s 
+ 
+• The Customer can sign up for any of the following  contracts : 
+ 
+1. TV plan  (Monthly Contract)  
+2. Data  plan  (Monthly Contract)  
+3. TV plan  and Data Plan(Monthly Contract)  
+4. TV plan  (1 Year Contract):  For any signed TV plan, 
+the customer receives one free PPV movie every 
+week  
+5. Data plan  (1 Year Contract): For any signed Data 
+plan,  the customer receives one free  month of 
+Premium plan for Online Video Gam es. 
+6. TV plan  and Data plan  (1 Year Contract):  For any 
+signed TV plan and Data plan, the customer 
+receives two free PPV movie s every week , one free 
+month of Premium plan for Online Video Gam es, 
+and one free month of Premium On Demand Movie 
+Streaming . 
+7. TV plan  and Data plan  (2 Years Contracts): For any 
+signed TV plan and Data plan, the customer 
+receives two free PPV movie s every week  , two  free 
+months of Premium plan for Online Video Gam es, 
+two free months of  Premium On Demand Movie 
+Streaming , and free remote control for Lighting and 
+Thermostat.  
+8. TV plan , Data plan , and Home Security and Alarm  (2 
+Years Contracts): For any signed TV plan, Data plan,  
+and Home Security, the customer receives two free 
+PPV movie s every week  , two  free months of 
+Premium plan for Online Video Gam es, free 
+Premium On Demand Movie Streaming , and free 
+remote control for Lighting and Thermostat.  
+ 
+ 

@@ -1,0 +1,34 @@
+Below is a structured table with detailed testing tasks and estimates for the Chicago WideCast Smart-Home Services system, covering unit tests, integration tests, system tests, and user acceptance tests.
+
+| Task Description                          | Amount of Work         | Productivity Rate          |
+|-------------------------------------------|------------------------|----------------------------|
+| **Unit Testing**                          |                        |                            |
+| Write Unit Test Cases                     | 150 test cases         | 10 test cases/Day          |
+| Execute Unit Test Cases                   | 150 test cases         | 10 test cases/Day          |
+| Fix Found Defects                         | 75 defects             | 5 defects/Day              |
+| Test Fixed Defects                        | 75 defects             | 6 defects/Day              |
+| **Integration Testing**                   |                        |                            |
+| Write Integration Test Cases              | 100 test cases         | 8 test cases/Day           |
+| Execute Integration Test Cases            | 100 test cases         | 8 test cases/Day           |
+| Fix Found Integration Defects             | 50 defects             | 4 defects/Day              |
+| Test Fixed Integration Defects            | 50 defects             | 5 defects/Day              |
+| **System Testing**                        |                        |                            |
+| Write System Test Plan                    | 50 pages               | 5 pages/Day                |
+| Execute System Test Cases                 | 200 test cases         | 10 test cases/Day          |
+| Fix Found System Defects                  | 100 defects            | 5 defects/Day              |
+| Test Fixed System Defects                 | 100 defects            | 6 defects/Day              |
+| **User Acceptance Testing (UAT)**        |                        |                            |
+| Prepare UAT Plan                          | 30 pages               | 3 pages/Day                |
+| Execute UAT Test Cases                    | 80 test cases          | 8 test cases/Day           |
+| Collect User Feedback                     | 1 feedback session     | 1 session/Day              |
+| Analyze User Feedback                     | 20 feedback items      | 5 items/Day                |
+| Rework Based on User Feedback             | 30 defects             | 4 defects/Day              |
+| **Documentation**                         |                        |                            |
+| Write Test Summary Report                 | 20 pages               | 2 pages/Day                |
+| Review Test Summary Report                | 20 pages               | 4 pages/Hour               |
+| Rework Test Summary Report                | 10 defects             | 5 defects/Day              |
+
+### Notes:
+- The tasks are broken down into unit testing, integration testing, system testing, and user acceptance testing to ensure comprehensive coverage of the testing process.
+- The productivity rates are estimated based on typical testing scenarios and may vary depending on the complexity of the test cases and the experience of the testing team.
+- The estimates are designed to provide a realistic timeline for the testing phase of the project, ensuring that all aspects of the system are thoroughly tested before deployment.

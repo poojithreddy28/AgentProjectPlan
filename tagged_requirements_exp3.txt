@@ -1,0 +1,115 @@
+### Requirements for Chicago WideCast Smart-Home Services
+
+#### Functional Requirements
+
+**REQ-001: Online TV Plan Options**  
+**Description:** The system shall provide customers with three Online TV plan options: Basic (50 channels), BasicPlus (100 channels), and Ultimate (200 channels).
+
+**REQ-002: Data Plan Options**  
+**Description:** The system shall provide customers with two Data plan options: WiFi SpeedLane (100/5 Mbps) and WiFi LightLane (250/30 Mbps).
+
+**REQ-003: On-Demand Movie Streaming Options**  
+**Description:** The system shall provide customers with two On-Demand Movie Streaming options: Premium (100 movies/month) and Ultimate (500 movies/month).
+
+**REQ-004: Pay-Per-View (PPV) Services**  
+**Description:** The system shall offer PPV services for Live Sports Events (fixed date/time) and PPV Movies (any date/time).
+
+**REQ-005: Online Video Games Options**  
+**Description:** The system shall provide customers with two Online Video Games options: Premium (100 games/month) and Ultimate (200 games/month).
+
+**REQ-006: Home Security Features**  
+**Description:** The system shall provide home security features including security cameras, alarms, and the ability to remotely unlock/lock the main entrance for delivery personnel.
+
+**REQ-007: Utilities Control**  
+**Description:** The system shall allow customers to remotely control house lighting and thermostat settings.
+
+**REQ-008: Role-Based Access Control**  
+**Description:** The system shall support four user roles: Managers, Account Specialists, Technical Support Specialists, and Customers, each with specific permissions.
+
+**REQ-009: Manager Workflow Capabilities**  
+**Description:** The system shall allow managers to add, update, delete, cancel, and modify any products/services and orders.
+
+**REQ-010: Account Specialist Workflow Capabilities**  
+**Description:** The system shall allow Account Specialists to create and update customer accounts, create incident tickets, and place orders for PPV events.
+
+**REQ-011: Technical Support Specialist Workflow Capabilities**  
+**Description:** The system shall allow Technical Support Specialists to schedule, close, and cancel incident tickets.
+
+**REQ-012: Customer Account Management**  
+**Description:** The system shall allow customers to update personal account information, pay monthly bills, create, change, and cancel orders for products/services.
+
+**REQ-013: Rental Requirement for New Customers**  
+**Description:** The system shall require new customers to rent the WideCast Smarthub Box and necessary devices for the services purchased.
+
+**REQ-014: Data Plan Requirement for Services**  
+**Description:** The system shall require customers to have either a Data plan or Online TV plan to access specific services.
+
+**REQ-015: Contract Options for Customers**  
+**Description:** The system shall allow customers to choose from various contract options: monthly, 1-year, or 2-year contracts for TV and Data plans.
+
+**REQ-016: PPV Service Requirement**  
+**Description:** The system shall require customers to have an Online TV plan to access PPV services.
+
+**REQ-017: Data Plan Requirement for Additional Services**  
+**Description:** The system shall require customers to have a Data plan to access On-Demand Movie Streaming, Online Video Games, Home Security, and Utilities.
+
+**REQ-018: Contract Benefits**  
+**Description:** The system shall provide specific benefits based on the type of contract signed, including free PPV movies, free months of premium services, and free remote controls for lighting and thermostat.
+
+---
+
+### Use Cases for Chicago WideCast Smart-Home Services
+
+**UC-001: Create Customer Account**  
+**Description:** An Account Specialist creates a new customer account in the system, entering necessary personal information and selecting a service plan.
+
+**UC-002: Update Customer Account**  
+**Description:** An Account Specialist updates an existing customer account with new information or changes to the service plan.
+
+**UC-003: Place PPV Order**  
+**Description:** An Account Specialist places an order for a PPV event on behalf of a customer.
+
+**UC-004: Create Incident Ticket**  
+**Description:** An Account Specialist creates an incident ticket for a customer issue and assigns it to a Technical Support Specialist.
+
+**UC-005: Schedule Incident Ticket**  
+**Description:** A Technical Support Specialist schedules a time to address an incident ticket created by an Account Specialist.
+
+**UC-006: Close Incident Ticket**  
+**Description:** A Technical Support Specialist closes an incident ticket after resolving the customer's issue.
+
+**UC-007: Cancel Incident Ticket**  
+**Description:** A Technical Support Specialist cancels an incident ticket if it is no longer needed.
+
+**UC-008: Update Personal Account Information**  
+**Description:** A customer updates their personal account information, including credit card details and personal information.
+
+**UC-009: Pay Monthly Bill**  
+**Description:** A customer pays their monthly bill through the system.
+
+**UC-010: Create Order for Services**  
+**Description:** A customer creates an order for any of the products/services offered by WideCast.
+
+**UC-011: Change Order for Services**  
+**Description:** A customer changes an existing order for any of the products/services offered by WideCast.
+
+**UC-012: Cancel Order for Services**  
+**Description:** A customer cancels an existing order for any of the products/services offered by WideCast.
+
+**UC-013: Add Product/Service**  
+**Description:** A manager adds a new product or service to the system.
+
+**UC-014: Update Product/Service**  
+**Description:** A manager updates the details of an existing product or service in the system.
+
+**UC-015: Delete Product/Service**  
+**Description:** A manager deletes a product or service from the system.
+
+**UC-016: Cancel Order**  
+**Description:** A manager cancels an existing order in the system.
+
+**UC-017: Update Order**  
+**Description:** A manager updates the details of an existing order in the system.
+
+**UC-018: Delete Order**  
+**Description:** A manager deletes an existing order from the system.
