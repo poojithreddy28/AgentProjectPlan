@@ -1,54 +1,52 @@
-Below is a structured table with tasks relevant to the role of a System Engineer for the Chicago WideCast Smart-Home Services system, including task descriptions, estimated work amounts, and productivity rates.
+Below is a structured table of tasks and time estimates for the Chicago WideCast Smart-Home Services system architecture, tailored to the role of a System Engineer. The tasks are categorized based on the system components, integration points, and technical constraints identified in the requirements document.
 
-| Task Description                                   | Amount of Work         | Productivity Rate          |
-|----------------------------------------------------|------------------------|----------------------------|
-| **Project Plan**                                    |                        |                            |
-| Write Project Plan                                  | 40 pages               | 5 pages/Hour               |
-| Review Project Plan                                 |                        |                            |
-| Preparation for Review                              | 5 pages                | 4 pages/Hour               |
-| Review Meeting                                      | 8 pages                | 8 pages/Hour               |
-| Rework                                              | 10 defects             | 5 defects/Hour             |
-| **Requirements Gathering**                          |                        |                            |
-| Write Requirements Document                         | 150 requirements       | 4 requirements/Hour        |
-| Write Use Case Model                                | 50 use cases           | 5 use cases/2 Hours        |
-| Review Requirements/Use Case Model                  |                        |                            |
-| Preparation for Review                              | 20 requirements        | 4 requirements/Hour        |
-| Review Meeting                                      | 30 requirements        | 5 requirements/Hour        |
-| Rework                                              | 50 defects             | 8 defects/Hour             |
-| **System Architecture Design**                      |                        |                            |
-| Write System Architecture Document                  | 60 pages               | 4 pages/Hour               |
-| Review System Architecture Document                 |                        |                            |
-| Preparation for Review                              | 5 pages                | 4 pages/Hour               |
-| Review Meeting                                      | 10 pages               | 7 pages/Hour               |
-| Rework                                              | 20 defects             | 4 defects/Hour             |
-| **Integration Design**                              |                        |                            |
-| Define Integration Points                           | 20 integration points   | 3 points/Hour              |
-| Document Integration Specifications                 | 30 pages               | 4 pages/Hour               |
-| Review Integration Specifications                    |                        |                            |
-| Preparation for Review                              | 5 pages                | 4 pages/Hour               |
-| Review Meeting                                      | 8 pages                | 6 pages/Hour               |
-| Rework                                              | 15 defects             | 5 defects/Hour             |
-| **Technical Constraints Analysis**                  |                        |                            |
-| Identify Technical Constraints                       | 10 constraints         | 2 constraints/Hour         |
-| Document Technical Constraints                       | 20 pages               | 3 pages/Hour               |
-| Review Technical Constraints Document                |                        |                            |
-| Preparation for Review                              | 5 pages                | 4 pages/Hour               |
-| Review Meeting                                      | 8 pages                | 6 pages/Hour               |
-| Rework                                              | 10 defects             | 4 defects/Hour             |
-| **Testing Strategy Development**                    |                        |                            |
-| Write Testing Strategy Document                     | 30 pages               | 4 pages/Hour               |
-| Review Testing Strategy Document                    |                        |                            |
-| Preparation for Review                              | 5 pages                | 4 pages/Hour               |
-| Review Meeting                                      | 8 pages                | 6 pages/Hour               |
-| Rework                                              | 12 defects             | 5 defects/Hour             |
-| **Documentation**                                   |                        |                            |
-| User Documentation for System Components            | 100 pages              | 4 pages/Hour               |
-| Review User Documentation                           |                        |                            |
-| Preparation for Review                              | 5 pages                | 4 pages/Hour               |
-| Review Meeting                                      | 10 pages               | 6 pages/Hour               |
-| Rework                                              | 20 defects             | 8 defects/Hour             |
+| Task Description                                   | Amount of Work         | Productivity Rate         |
+|----------------------------------------------------|------------------------|---------------------------|
+| **Project Planning**                               |                        |                           |
+| Write Project Plan                                 | 30 pages               | 5 pages/Hour              |
+| Review Project Plan                                |                        |                           |
+| Preparation for Review                             | 5 pages                | 4 pages/Hour              |
+| Review Meeting                                     | 10 pages               | 8 pages/Hour              |
+| Rework                                             | 15 defects             | 5 defects/Hour            |
+| **Requirements Analysis**                          |                        |                           |
+| Write System Requirements                           | 100 requirements       | 4 Req/Hour                |
+| Write Use Case Model                               | 40 Use Cases           | 5 Use Cases/2 Hours       |
+| Review Requirements/Use Case Model                 |                        |                           |
+| Preparation for Review                             | 10 Req                 | 4 Req/Hour                |
+| Review Meeting                                     | 15 Req                 | 5 Req/Hour                |
+| Rework                                             | 50 defects             | 8 defects/Hour            |
+| **System Design**                                  |                        |                           |
+| Write System Architecture Document                  | 50 pages               | 4 pages/Hour              |
+| Review System Architecture Document                 |                        |                           |
+| Preparation for Review                             | 5 pages                | 4 pages/Hour              |
+| Review Meeting                                     | 8 pages                | 7 pages/Hour              |
+| Rework                                             | 20 defects             | 4 defects/Hour            |
+| Write Data Model                                   | 25 pages               | 1 page/3 Hours            |
+| Review Data Model                                  |                        |                           |
+| Preparation for Review                             | 5 pages                | 4 pages/Hour              |
+| Review Meeting                                     | 4 pages                | 4 pages/Hour              |
+| Rework                                             | 10 defects             | 7 defects/Hour            |
+| **Integration Planning**                           |                        |                           |
+| Identify Integration Points                         | 10 integration points   | 2 points/Hour             |
+| Document Integration Requirements                   | 20 pages               | 3 pages/Hour              |
+| Review Integration Requirements                     |                        |                           |
+| Preparation for Review                             | 5 pages                | 4 pages/Hour              |
+| Review Meeting                                     | 6 pages                | 6 pages/Hour              |
+| Rework                                             | 12 defects             | 5 defects/Hour            |
+| **Development and Testing**                        |                        |                           |
+| Write Code for Core Services                       | 3000 SLOC              | 5 SLOC/Hour               |
+| Unit Testing                                       |                        |                           |
+| Prepare/Execute Test Cases                         | 150 test cases         | 8 Test Cases/Day          |
+| Fix Found Defects                                  | 100 defects            | 7 Defects/Day             |
+| Test Fixed Defects                                 | 100 defects            | 6 Defects/Day             |
+| **Documentation**                                  |                        |                           |
+| User Documentation                                  | 100 pages              | 4 pages/Hour              |
+| Review User Documentation                           |                        |                           |
+| Preparation for Review                             | 5 pages                | 4 pages/Hour              |
+| Review Meeting                                     | 6 pages                | 6 pages/Hour              |
+| Rework                                             | 20 defects             | 8 defects/Hour            |
 
 ### Notes:
-- The tasks are structured to cover the entire lifecycle of the system architecture, from planning and requirements gathering to design, integration, testing, and documentation.
-- Time estimates are based on typical productivity rates for system engineering tasks and may vary based on team experience and project complexity.
-- The rework tasks account for potential defects identified during reviews and meetings, which is common in system engineering processes.
+- The tasks are designed to cover the entire lifecycle of the system architecture, from planning and requirements gathering to design, integration, development, testing, and documentation.
+- The productivity rates are based on typical industry standards and may vary depending on the team's experience and the complexity of the tasks.
+- The estimates are intended to provide a realistic timeline for project planning and resource allocation. Adjustments may be necessary as the project progresses and more information becomes available.

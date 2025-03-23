@@ -1,53 +1,55 @@
-Here’s a detailed list of tasks and time estimates for the Chicago WideCast Smart-Home Services system implementation, structured in a table format similar to the provided sample:
+Here's a structured table with detailed coding tasks and estimates for the Chicago WideCast Smart-Home Services system implementation:
 
-| Task Description                                   | Amount of Work         | Productivity Rate         |
-|----------------------------------------------------|------------------------|---------------------------|
-| **Project Planning**                               |                        |                           |
-| Write Project Plan                                 | 50 pages               | 5 pages/Hour              |
-| Review Project Plan                                |                        |                           |
-| Preparation for Review                             | 5 pages                | 4 pages/Hour              |
-| Review Meeting                                     | 10 pages               | 8 pages/Hour              |
-| Rework                                             | 15 defects             | 5 defects/Hour            |
-| **Requirements Gathering**                         |                        |                           |
-| Write Functional Requirements                       | 100 Requirements       | 4 Req/Hour                |
-| Write Non-Functional Requirements                  | 50 Requirements        | 4 Req/Hour                |
-| Review Requirements                                |                        |                           |
-| Preparation for Review                             | 10 Requirements        | 4 Req/Hour                |
-| Review Meeting                                     | 20 Requirements        | 5 Req/Hour                |
-| Rework                                             | 30 defects             | 8 defects/Hour            |
-| **Design**                                        |                        |                           |
-| Write System Architecture Document                 | 40 pages               | 4 pages/Hour              |
-| Write Database Design Document                     | 30 pages               | 3 pages/Hour              |
-| Review Design Documents                            |                        |                           |
-| Preparation for Design Review                      | 5 pages                | 4 pages/Hour              |
-| Review Meeting                                     | 8 pages                | 6 pages/Hour              |
-| Rework                                             | 20 defects             | 4 defects/Hour            |
-| **Frontend Development**                           |                        |                           |
-| Develop User Interface for Customer Portal        | 200 SLOC               | 5 SLOC/Hour               |
-| Develop User Interface for Admin Portal           | 150 SLOC               | 5 SLOC/Hour               |
-| Unit Testing UI Components                         | 50 test cases          | 8 test cases/Day          |
-| Fix Found Defects                                  | 30 defects             | 7 defects/Day             |
-| **Backend Development**                            |                        |                           |
-| Develop RESTful API for Services                  | 300 SLOC               | 5 SLOC/Hour               |
-| Implement Business Logic for Workflows             | 250 SLOC               | 5 SLOC/Hour               |
-| Unit Testing API Endpoints                         | 60 test cases          | 8 test cases/Day          |
-| Fix Found Defects                                  | 40 defects             | 7 defects/Day             |
-| **Database Development**                           |                        |                           |
-| Design Database Schema                             | 20 tables              | 2 tables/Hour             |
-| Implement Database Schema                          | 20 tables              | 2 tables/Hour             |
-| Write SQL Queries for CRUD Operations              | 50 queries             | 5 queries/Hour            |
-| Test Database Operations                           | 30 test cases          | 8 test cases/Day          |
-| Fix Found Defects                                  | 20 defects             | 7 defects/Day             |
-| **Testing**                                       |                        |                           |
-| Write Test Plan for System Testing                 | 30 pages               | 6 pages/Day               |
-| Execute System Testing                             | 100 test cases         | 8 test cases/Day          |
-| Fix Found Defects                                  | 50 defects             | 9 defects/Day             |
-| Test Fixed Defects                                 | 50 defects             | 13 defects/Day            |
-| **Documentation**                                  |                        |                           |
-| Write User Documentation                           | 100 pages              | 4 pages/Hour              |
-| Review User Documentation                          |                        |                           |
-| Preparation for Review                             | 10 pages               | 4 pages/Hour              |
-| Review Meeting                                     | 15 pages               | 6 pages/Hour              |
-| Rework                                             | 25 defects             | 8 defects/Hour            |
+| **Task Description**                          | **Amount of Work**         | **Productivity Rate**         |
+|-----------------------------------------------|-----------------------------|-------------------------------|
+| **Project Planning**                          |                             |                               |
+| Write Project Plan                            | 20 pages                    | 5 pages/Hour                 |
+| Review Project Plan                           |                             |                               |
+| Preparation for Review                        | 5 pages                     | 4 pages/Hour                 |
+| Review Meeting                                | 1 meeting                   | 1 meeting/2 hours             |
+| **Requirements Gathering**                    |                             |                               |
+| Write Functional Requirements                 | 150 requirements            | 4 requirements/Hour           |
+| Write Non-Functional Requirements             | 50 requirements             | 4 requirements/Hour           |
+| Review Requirements                           |                             |                               |
+| Preparation for Review                        | 20 requirements             | 4 requirements/Hour           |
+| Review Meeting                                | 1 meeting                   | 1 meeting/2 hours             |
+| **System Design**                             |                             |                               |
+| Write High-Level Design Document              | 30 pages                    | 4 pages/Hour                 |
+| Write Detailed Design Document                | 50 pages                    | 4 pages/Hour                 |
+| Review Design Document                        |                             |                               |
+| Preparation for Review                        | 10 pages                    | 4 pages/Hour                 |
+| Review Meeting                                | 1 meeting                   | 1 meeting/2 hours             |
+| **Frontend Development**                      |                             |                               |
+| Develop User Interface for Customer Portal   | 200 SLOC                    | 5 SLOC/Hour                   |
+| Develop User Interface for Admin Portal      | 150 SLOC                    | 5 SLOC/Hour                   |
+| Implement Responsive Design                   | 100 SLOC                    | 5 SLOC/Hour                   |
+| Unit Testing Frontend                         | 50 test cases               | 8 test cases/Day              |
+| Fix Found Defects (Frontend)                 | 30 defects                  | 7 defects/Day                 |
+| **Backend Development**                       |                             |                               |
+| Develop RESTful API for Services             | 300 SLOC                    | 5 SLOC/Hour                   |
+| Implement Business Logic                      | 200 SLOC                    | 5 SLOC/Hour                   |
+| Database Integration                          | 150 SLOC                    | 5 SLOC/Hour                   |
+| Unit Testing Backend                          | 50 test cases               | 8 test cases/Day              |
+| Fix Found Defects (Backend)                  | 40 defects                  | 7 defects/Day                 |
+| **Database Development**                      |                             |                               |
+| Design Database Schema                        | 20 tables                   | 2 tables/Hour                 |
+| Implement Database Schema                     | 20 tables                   | 2 tables/Hour                 |
+| Write SQL Queries for CRUD Operations        | 50 queries                  | 5 queries/Hour                |
+| Unit Testing Database                         | 30 test cases               | 8 test cases/Day              |
+| Fix Found Defects (Database)                 | 20 defects                  | 7 defects/Day                 |
+| **Testing**                                   |                             |                               |
+| Write Test Plan                               | 30 pages                    | 6 pages/Day                   |
+| Execute Test Plan (test cases)               | 200 test cases              | 8 test cases/Day              |
+| Fix Found Defects (Testing)                  | 50 defects                  | 9 defects/Day                 |
+| Test Fixed Defects                           | 50 defects                  | 13 defects/Day                |
+| **Documentation**                             |                             |                               |
+| User Documentation                            | 100 pages                   | 4 pages/Hour                 |
+| Review User Documentation                     |                             |                               |
+| Preparation for Review                        | 10 pages                    | 4 pages/Hour                 |
+| Review Meeting                                | 1 meeting                   | 1 meeting/2 hours             |
+| **Deployment**                                |                             |                               |
+| Prepare Deployment Plan                       | 10 pages                    | 5 pages/Hour                 |
+| Execute Deployment                            | 1 deployment                | 1 deployment/4 hours          |
+| Post-Deployment Testing                       | 50 test cases               | 8 test cases/Day              |
 
 This table outlines the tasks relevant to the role of a Software Engineer in the Chicago WideCast Smart-Home Services system implementation, along with realistic estimates for the amount of work and productivity rates.

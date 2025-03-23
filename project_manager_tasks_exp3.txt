@@ -1,61 +1,57 @@
-Here's a detailed project plan for the Chicago WideCast Smart-Home Services system, formatted as requested:
+Here is a detailed project plan for the Chicago WideCast Smart-Home Services system, structured in a table format similar to the SampleProjectTasksEstimates.pdf. Each task is tagged and numbered with unique identifiers for clarity.
 
-| Task Description                                   | Amount of Work       | Productivity Rate         |
-|----------------------------------------------------|----------------------|---------------------------|
-| **Project Plan**                                    |                      |                           |
-| Write Project Plan                                  | 50 pages             | 5 pages/Hour              |
-| Review Project Plan                                 |                      |                           |
-| Preparation for Review                              | 5 pages              | 4 pages/Hour              |
-| Review Meeting                                      | 10 pages             | 8 pages/Hour              |
-| Rework                                              | 15 defects           | 5 defects/Hour            |
-| **Requirement Gathering**                           |                      |                           |
-| Write Requirements                                  | 200 Requirements      | 4 Requirements/Hour       |
-| Write Use Case Model                                | 80 Use Cases         | 5 Use Cases/2 Hours       |
-| Review Requirements/Use Case Model                  |                      |                           |
-| Preparation for Review                              | 20 Requirements       | 4 Requirements/Hour       |
-| Review Meeting                                      | 30 Requirements       | 5 Requirements/Hour       |
-| Rework                                              | 50 defects           | 8 defects/Hour            |
-| **Analysis**                                       |                      |                           |
-| Write Analysis Document                             | 100 pages            | 5 pages/Hour              |
-| Review Analysis Document                            |                      |                           |
-| Preparation for Analysis Document                   | 10 pages             | 4 pages/Hour              |
-| Review Meeting                                      | 15 pages             | 7 pages/Hour              |
-| Rework                                              | 30 defects           | 5 defects/Hour            |
-| **Design**                                         |                      |                           |
-| Write Design Document (DD)                          | 90 pages             | 4 pages/Hour              |
-| Review Design Document                              |                      |                           |
-| Preparation for DD                                  | 10 pages             | 5 pages/Hour              |
-| Review Meeting                                      | 12 pages             | 9 pages/Hour              |
-| Rework                                              | 100 defects          | 4 defects/Hour            |
-| Write Data Model (DM)                              | 40 pages             | 1 page/3 Hours            |
-| Review Data Model                                   |                      |                           |
-| Preparation for DM                                  | 5 pages              | 5 pages/Hour              |
-| Review Meeting                                      | 8 pages              | 4 pages/Hour              |
-| Rework                                              | 50 defects           | 7 defects/Hour            |
-| **Development**                                    |                      |                           |
-| Write Code                                         | 4000 SLOC            | 5 SLOC/Hour               |
-| Unit Testing                                       |                      |                           |
-| Prepare/Execute Test Cases                          | 200 test cases       | 8 Test Cases/Day          |
-| Fix Found Defects                                   | 150 defects          | 7 Defects/Day             |
-| Test Fixed Defects                                  | 150 defects          | 6 Defects/Day             |
-| Code Inspection                                     |                      |                           |
-| Preparation for Code Inspection                     | 150 SLOC             | 124 SLOC/Hour             |
-| Code Inspection Meeting                             | 250 SLOC             | 210 SLOC/Hour             |
-| Rework                                              | 100 defects          | 4 defects/Hour            |
-| **Testing**                                        |                      |                           |
-| Write Test Plan (TP)                               | 250 pages            | 6 pages/Day               |
-| Review TP                                          |                      |                           |
-| Preparation for TP                                  | 10 pages             | 5 pages/Hour              |
-| Review TP Meeting                                   | 15 pages             | 8 pages/Hour              |
-| Rework                                              | 200 defects          | 6 defects/Hour            |
-| Execute TP (test cases)                            | 300 test cases       | 8 test cases/Day          |
-| Fix Found Defects                                   | 200 defects          | 9 defects/Day             |
-| Test Fixed Defects                                  | 200 defects          | 13 defects/Day            |
-| **Documentation**                                  |                      |                           |
-| User Documentation                                  | 200 pages            | 4 pages/Hour              |
-| Review UD                                          |                      |                           |
-| Preparation for UD Review                           | 10 pages             | 4 pages/Hour              |
-| Review UD Meeting                                   | 15 pages             | 6 pages/Hour              |
-| Rework                                              | 150 defects          | 8 defects/Hour            |
+| Task ID | Task Description                                   | Amount of Work         | Productivity Rate          |
+|---------|----------------------------------------------------|------------------------|----------------------------|
+| PM-01   | Write Project Plan                                 | 56 pages               | 5 pages/Hour               |
+| PM-02   | Review Project Plan                                |                        |                            |
+| PM-02.1 | Preparation for review                             | 4 pages/Hour          |                            |
+| PM-02.2 | Review Meeting                                     | 8 pages/Hour          |                            |
+| PM-02.3 | Rework                                             | 39 defects             | 5 defects/Hour             |
+| PM-03   | Risk Mitigation and Contingency Plan               |                        |                            |
+| PM-03.1 | Write Risk Mitigation Plan                         | 78 pages               | 5 pages/Hour               |
+| PM-03.2 | Review Risk Mitigation Plan                        |                        |                            |
+| PM-03.2.1 | Preparation for review                           | 5 pages/Hour          |                            |
+| PM-03.2.2 | Review Meeting                                   | 10 pages/Hour         |                            |
+| PM-03.2.3 | Rework                                          | 19 defects             | 5 defects/Hour             |
+| PM-04   | Requirement Gathering                              |                        |                            |
+| PM-04.1 | Write Requirements                                 | 176 Requirements       | 4 Req/Hour                 |
+| PM-04.2 | Write Use Case Model                              | 62 Use Cases           | 5 Use Cases/2 Hours        |
+| PM-04.3 | Review Requirements/Use Case Model                |                        |                            |
+| PM-04.3.1 | Preparation for review                           | 18 Req/Hour           |                            |
+| PM-04.3.2 | Review Meeting                                   | 23 Req/Hour           |                            |
+| PM-04.3.3 | Rework                                          | 127 defects            | 8 defects/Hour             |
+| PM-05   | Analysis                                          |                        |                            |
+| PM-05.1 | Write Analysis Document                           | 72 pages               | 5 pages/Hour               |
+| PM-05.2 | Review Analysis Document                           |                        |                            |
+| PM-05.2.1 | Preparation for Analysis Document                | 4 pages/Hour          |                            |
+| PM-05.2.2 | Review Meeting                                   | 7 pages/Hour          |                            |
+| PM-05.2.3 | Rework                                          | 92 defects             | 5 defects/Hour             |
+| PM-06   | Design                                            |                        |                            |
+| PM-06.1 | Write Design Document                             | 78 pages               | 4 pages/Hour               |
+| PM-06.2 | Review Design Document                             |                        |                            |
+| PM-06.2.1 | Preparation for Design Document                  | 5 pages/Hour          |                            |
+| PM-06.2.2 | Review Meeting                                   | 9 pages/Hour          |                            |
+| PM-06.2.3 | Rework                                          | 175 defects            | 4 defects/Hour             |
+| PM-07   | Coding and Unit Testing                           |                        |                            |
+| PM-07.1 | Write Code                                        | 3758 SLOC              | 5 SLOC/Hour                |
+| PM-07.2 | Unit Testing                                      |                        |                            |
+| PM-07.2.1 | Prepare/Execute Test Cases                       | 194 test cases         | 8 Test Cases/Day           |
+| PM-07.2.2 | Fix Found Defects                                | 184 Defects            | 7 Defects/Day              |
+| PM-07.2.3 | Test Fixed Defects                               | 184 Defects            | 6 Defects/Day              |
+| PM-08   | Testing                                           |                        |                            |
+| PM-08.1 | Write Test Plan                                   | 210 pages              | 6 pages/Day                |
+| PM-08.2 | Review Test Plan                                   |                        |                            |
+| PM-08.2.1 | Preparation for Test Plan Review                 | 5 pages/Hour          |                            |
+| PM-08.2.2 | Review Test Plan Meeting                         | 8 pages/Hour          |                            |
+| PM-08.2.3 | Rework                                          | 287 defects            | 6 defects/Hour             |
+| PM-08.3 | Execute Test Plan (test cases)                   | 259 test cases         | 8 test cases/Day           |
+| PM-08.4 | Fix Found Defects                                 | 188 defects            | 9 defects/Day              |
+| PM-08.5 | Test Fixed Defects                                | 188 defects            | 13 defects/Day             |
+| PM-09   | Documentation                                      |                        |                            |
+| PM-09.1 | User Documentation                                 | 147 pages              | 4 pages/Hour               |
+| PM-09.2 | Review User Documentation                          |                        |                            |
+| PM-09.2.1 | Preparation for User Documentation Review       | 4 pages/Hour          |                            |
+| PM-09.2.2 | Review User Documentation Meeting                | 6 pages/Hour          |                            |
+| PM-09.2.3 | Rework                                          | 163 defects            | 8 defects/Hour             |
 
-This table outlines the tasks relevant to the project management role for the Chicago WideCast Smart-Home Services system, including task descriptions, estimated work amounts, and productivity rates. Each task is designed to ensure the successful delivery of the project while adhering to the requirements outlined in the project overview.
+This table outlines the tasks relevant to the role of a Project Manager for the Chicago WideCast Smart-Home Services system, including task descriptions, estimated work amounts, and productivity rates. Each task is designed to ensure the successful planning, execution, and delivery of the project.
